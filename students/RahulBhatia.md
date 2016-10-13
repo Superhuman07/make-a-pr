@@ -2,9 +2,9 @@
 
 ##Academics
 
-Student at DTU
+###Student at DTU
 
-###Development
+####Development
 
-Android, Python and PHP developer
+#####Android, Python and PHP developer
 
